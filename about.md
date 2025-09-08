@@ -3,19 +3,11 @@ title: About
 layout: page
 ---
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I’m ABC, a roboticist. I spend my days teaching robots how to walk, talk, and occasionally fall down with dignity.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My research revolves around efficient robot path planning and optimization, with a strong focus on bridging the gap between human-robot interaction. The goal is to develop robotic systems that can understand instructions from everyday users and carry out tasks accordingly.</p>
+
+<p>To achieve this, my work brings together robotics and artificial intelligence, particularly focusing on natural language processing (NLP) and sampling-based path planning. It’s this intersection — where machines understand humans and navigate the world effectively — that drives my research forward.</p>
 
 <h2>Skills</h2>
 
